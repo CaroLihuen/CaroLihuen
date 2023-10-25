@@ -8,7 +8,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/carolina-l-dominguez-fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carolina-l-dominguez-fs" height="30" width="40" /></a>
-<a href="mailto:carolinaldominguez@outlook.com " target="blank"><img align="center" src="https://www.svgrepo.com/show/479653/email-9.svg" height="30" width="40" /></a>
+<a href="mailto:carolinaldominguez@outlook.com " target="blank"><img align="center" src="https://www.svgrepo.com/show/474135/email.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Tecnologías:</h3>
