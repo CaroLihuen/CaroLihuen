@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500px">
 
-<h3 align="left">Mi nombre es Carolina! Soy Fullstack Web Developer enfocada en el Backend. En este momento me encuentro buscando nuevas oportunidades laborales.</h3>
+<h3 align="left">Mi nombre es Carolina! Soy Fullstack Web Developer enfocada en el Backend. </h3>
 
 <h3 align="left">Me podes contactar por: </h3>
 
